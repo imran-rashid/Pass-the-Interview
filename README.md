@@ -93,13 +93,27 @@
 
 ## JavaScript
 
+## Algorithms
+
+- [CSCE 310 (CS3 Summer) - Data Structures & Algorithms](https://www.youtube.com/playlist?list=PL4IH6CVPpTZXGuvXF4g1ZM4iP73KvnVdg) — Chris Bourke
+- [Learning Algorithms](https://learning-algos.netlify.app/) — George T. Heineman
+    - Preface
+    - Chapter 01: Problem Solving
+    - Chapter 02: Analyzing Algorithms
+    - Chapter 03: Better Living Through Better Hashing
+    - Chapter 04: Heaping It On
+    - Chapter 05: Sorting Without a Hat
+    - Chapter 06: Binary Trees
+    - Chapter 07: Graphs Only Connect!
+    - Chapter 08: Wrapping It Up
+    - [code](https://github.com/heineman/LearningAlgorithms)
+
 ## Software Design
 
 - [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655) by Artur Ejsmont
-- [16 lectures on Software design](https://www.youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM)
+- [16 lectures on Software design](https://www.youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM) — Yegor Bugayenko
 - [Software Design in Python](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
-- [How to "think" (and design) like a Software Architect at Silicon Valley](https://www.youtube.com/watch?v=mCM6QVHD08c)
 
 ## Miscellaneous
 
@@ -118,3 +132,4 @@
 - [Encapsulation Is Dead, Let's Use Distance of Coupling Instead](https://www.youtube.com/watch?v=fJvUTlPHSvU)
 - [F1: Future of Software, Programming, Work Remotely, etc.](https://www.youtube.com/watch?v=cfD8gApC4P8)
 - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+- [How to "think" (and design) like a Software Architect at Silicon Valley](https://www.youtube.com/watch?v=mCM6QVHD08c)
