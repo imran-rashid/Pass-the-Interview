@@ -34,12 +34,12 @@
     
 ### Conf & Video Series
 
-- [Introduction to Decorators: Power Up Your Python Code](https:/www.youtube.com/watch?v=VWZAh1QrqRE)
-- [Decorators and descriptors decoded](https://www.youtube.com/watch?v=81S01c9zytE)
-- [Pythonic Objects: implementing productive APIs with the Python Data Model](https://www.youtube.com/watch?v=k55d3ZUF3ZQ)
+- [Python Conf Playlist](https://www.youtube.com/playlist?list=PLshEJn4_ZJAYcFmerO-eUZVWVIIZ67T3j)
+
+### Series
+
 - [Less Is More: How to Code Python in One Line](https://www.youtube.com/playlist?list=PLVcEZG2JPVhe5WRR4sN0IUfmnx1-d6npU)
 - [Lazy Looping in Python: Making and Using Generators and Iterators](https://pycon2019.trey.io/)
-- [Ariel Ortiz - Design Patterns in Python for the Untrained Eye](https://www.youtube.com/watch?v=o1FZ_Bd4DSM)
 - [Series: Python Libraries 101](https://www.youtube.com/playlist?list=PLVcEZG2JPVhdWrhurJar_L9tde3zuECQo)
 
 ### Clean Code in Python, 2E
@@ -47,7 +47,7 @@
 - The SOLID Principles
 - Using Decorators to Improve Our Code
 
-### Fluent Python,2E
+### Fluent Python, 2E
 
 - Functions as First-Class Objects
 - Decorators and Closures
@@ -64,7 +64,7 @@
 
 ### Articles & Podcasts
 
-- [Podcasts Series](https://audiomack.com/imrande/album/podcasts)
+- [Podcasts Playlist](https://audiomack.com/imrande/album/podcasts)
 
 #### Real Python Podcast
 
