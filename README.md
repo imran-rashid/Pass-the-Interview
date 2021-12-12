@@ -49,7 +49,7 @@
 
 ### Fluent Python, 2E
 
-- Functions as First-Class Objects
+- ~~Functions as First-Class Objects~~
 - Decorators and Closures
 - Design Patterns with First-Class Functions
 - Interfaces, Protocols, and ABCs
@@ -66,7 +66,8 @@
 
 - [Podcasts Playlist](https://audiomack.com/imrande/album/podcasts)
 
-#### Real Python Podcast
+<details>
+<summary>Real Python Podcast</summary>
 
 - [Episode 88: Discussing Type Hints, Protocols, and Ducks in Python](https://realpython.com/podcasts/rpp/88/)
 - [Episode 83: Ready to Publish Your Python Packages?](https://realpython.com/podcasts/rpp/83/)
@@ -84,6 +85,8 @@
 - [Episode 6: Python REST APIs and The Well-Grounded Python Developer](https://realpython.com/podcasts/rpp/6/)
 - [Episode 3: Effective Python and Python at Google Scale](https://realpython.com/podcasts/rpp/3/)
 
+ </details>
+ 
 #### Articles
 
 - [30 Python Language Features and Tricks You May Not Know About](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
@@ -96,7 +99,7 @@
 ## Algorithms
 
 - [CSCE 310 (CS3 Summer) - Data Structures & Algorithms](https://www.youtube.com/playlist?list=PL4IH6CVPpTZXGuvXF4g1ZM4iP73KvnVdg) — Chris Bourke
-- [Learning Algorithms](https://learning-algos.netlify.app/) — George T. Heineman
+- [Learning Algorithms](https://www.amazon.com/Learning-Algorithms-Programmers-Writing-Better/dp/1492091065) — George T. Heineman
     - Preface
     - Chapter 01: Problem Solving
     - Chapter 02: Analyzing Algorithms
@@ -122,6 +125,9 @@
 
 ## YouTube
 
+<details>
+<summary>Channels & Videos</summary>
+    
 - [Lux Tech Academy](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ/videos)
 - [Ben Manley](https://www.youtube.com/channel/UCUuibJM8qV3Y6WoNCetWvRQ)
 - [Women Who Code](https://www.youtube.com/c/WomenWhoCodeGlobal/videos)
@@ -133,3 +139,5 @@
 - [F1: Future of Software, Programming, Work Remotely, etc.](https://www.youtube.com/watch?v=cfD8gApC4P8)
 - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [How to "think" (and design) like a Software Architect at Silicon Valley](https://www.youtube.com/watch?v=mCM6QVHD08c)
+    
+</details>
