@@ -70,7 +70,6 @@
 
 <details>
     <summary>Real Python Podcast</summary>
-
     - [Episode 88: Discussing Type Hints, Protocols, and Ducks in Python](https://realpython.com/podcasts/rpp/88/)
     - [Episode 83: Ready to Publish Your Python Packages?](https://realpython.com/podcasts/rpp/83/)
     - [Episode 68: Exploring the functools Module and Complex Numbers in Python](https://realpython.com/podcasts/rpp/68/)
@@ -104,7 +103,6 @@
 - [Learning Algorithms](https://www.amazon.com/Learning-Algorithms-Programmers-Writing-Better/dp/1492091065) — George T. Heineman
         <details>
             <summary>Table of Content</summary>
-    
             - Preface <br>
             - Chapter 01: Problem Solving <br>
             - Chapter 02: Analyzing Algorithms <br>
@@ -125,7 +123,6 @@
 - [16 lectures on Software Design](https://www.youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM) — Yegor Bugayenko
         <details>
             <summary>Table of Content</summary>
-    
             - ~~SSD 1/16: README vs. IEEE~~ <br>
             - ~~SSD 2/16: Requirements Engineering~~ <br>
             - SSD 3/16: Rational Unified Process vs. Agile <br>
