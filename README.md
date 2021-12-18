@@ -117,9 +117,12 @@
 
 - [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655) by Artur Ejsmont
 - [16 lectures on Software Design](https://www.youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM) — Yegor Bugayenko
-    - ~~SSD 1/16: README vs. IEEE~~
-    - SSD 2/16: Requirements Engineering
-    - SSD 3/16: Rational Unified Process vs. Agile
+        <details>
+        <summary>Table of Content</summary>
+        - ~~SSD 1/16: README vs. IEEE~~ <br>
+        - ~~SSD 2/16: Requirements Engineering~~ <br>
+        - SSD 3/16: Rational Unified Process vs. Agile <br>
+        </details>   
 - [Software Design in Python](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 
