@@ -135,6 +135,7 @@
 ## YouTube
 
 <details>
+    
 <summary>Channels & Videos</summary>
 - [Lux Tech Academy](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ/videos)
 - [Ben Manley](https://www.youtube.com/channel/UCUuibJM8qV3Y6WoNCetWvRQ)
@@ -147,6 +148,7 @@
 - [F1: Future of Software, Programming, Work Remotely, etc.](https://www.youtube.com/watch?v=cfD8gApC4P8)
 - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [How to "think" (and design) like a Software Architect at Silicon Valley](https://www.youtube.com/watch?v=mCM6QVHD08c)
+    
 </details>
 
 - https://apply.innopolis.university/en/master/development/
