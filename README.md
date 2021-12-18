@@ -114,7 +114,6 @@
         ➼ Chapter 07: Graphs Only Connect! <br>
         ➼ Chapter 08: Wrapping It Up <br>
         ➼ [code](https://github.com/heineman/LearningAlgorithms) <br>
-    
         </details>    
         
 ## Software Design
