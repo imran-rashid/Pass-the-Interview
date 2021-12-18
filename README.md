@@ -23,6 +23,8 @@
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)
+- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)
+- [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet)
 
 ### Real Python Path
 
@@ -114,7 +116,10 @@
 ## Software Design
 
 - [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655) by Artur Ejsmont
-- [16 lectures on Software design](https://www.youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM) — Yegor Bugayenko
+- [16 lectures on Software Design](https://www.youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM) — Yegor Bugayenko
+    - ~~SSD 1/16: README vs. IEEE~~
+    - SSD 2/16: Requirements Engineering
+    - SSD 3/16: Rational Unified Process vs. Agile
 - [Software Design in Python](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 
@@ -141,3 +146,5 @@
 - [How to "think" (and design) like a Software Architect at Silicon Valley](https://www.youtube.com/watch?v=mCM6QVHD08c)
     
 </details>
+
+- https://apply.innopolis.university/en/master/development/
