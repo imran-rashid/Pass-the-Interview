@@ -1,3 +1,12 @@
+{
+    "workbench.colorTheme": "Cobalt2",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'operator mono', Consolas, 'Courier New', monospace",
+    "workbench.iconTheme": "material-icon-theme"
+}
+
+
+
 # ⏰Pass the Interview
 
 ## Developer's Interview
