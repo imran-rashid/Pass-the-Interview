@@ -1,9 +1,9 @@
-{
-    "workbench.colorTheme": "Cobalt2",
-    "editor.fontSize": 18,
-    "editor.fontFamily": "'operator mono', Consolas, 'Courier New', monospace",
-    "workbench.iconTheme": "material-icon-theme"
-}
+{ <br>
+    "workbench.colorTheme": "Cobalt2", <br>
+    "editor.fontSize": 18, <br>
+    "editor.fontFamily": "'operator mono', Consolas, 'Courier New', monospace", <br>
+    "workbench.iconTheme": "material-icon-theme" <br>
+} <br>
 
 
 
